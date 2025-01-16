@@ -1,16 +1,7 @@
-# first_app
+# First Flutter App 📱
 
-Creating your first flutter app for a mobile development workshop.
+This is an instructor-led activity in a mobile development workshop hosted by Google Developer Groups on Campus - Holy Angel University. 
 
-## Getting Started
+This project serves as the first Flutter application that the participants will create.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="150" src="https://github.com/user-attachments/assets/be5c3be8-8ce2-4b3c-ba4b-4b879cc88018">
